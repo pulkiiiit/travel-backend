@@ -1,0 +1,17 @@
+{
+  "name": "travel-backend",
+  "version": "1.0.0",
+  "description": "This is the travel website backend ",
+  "keywords": [
+    "javascript",
+    "backend",
+    "travel"
+  ],
+  "license": "ISC",
+  "author": "Pulkit Shukla",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
